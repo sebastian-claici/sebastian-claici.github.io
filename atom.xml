@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Concave Mirror</title>
     <subtitle type="html">Blog on math things. The not-math section is at https://sebastianclaici.com.</subtitle>
-    <updated>2020-05-27T12:54:55-04:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2020-05-27T12:58:47-04:00</updated>
+    <id>https://sebastian-claici.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://sebastian-claici.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://sebastian-claici.github.io/atom.xml" />
     <author>
             <name>Sebastian Claici</name>
-            <uri>https://example.com/</uri>
+            <uri>https://sebastian-claici.github.io/</uri>
             
                 <email>sebastianclaici@gmail.com</email>
             </author>
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.71.1">Hugo</generator>
         <entry>
             <title type="text">Introduction to Optimal Transport</title>
-            <link rel="alternate" type="text/html" href="https://example.com/blog/introduction-to-optimal-transport/" />
-            <id>https://example.com/blog/introduction-to-optimal-transport/</id>
-            <updated>2020-05-27T12:39:45-04:00</updated>
+            <link rel="alternate" type="text/html" href="https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/" />
+            <id>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</id>
+            <updated>2020-05-27T12:57:32-04:00</updated>
             <published>2020-05-27T00:00:00-04:00</published>
             <author>
                     <name>Sebastian Claici</name>
@@ -66,7 +66,7 @@ mass under \(\nu\) of \(B\):&lt;/p&gt;
 c(x_i, y_j)\). If we try to look for a map \(T\) here, we run into trouble quickly.
 Here is an example on \(\mathbb{R}\) where such a map does not exist:&lt;/p&gt;
 &lt;p&gt;\begin{equation}
-\mu = \delta_0\quad \nu = \frac{1}{2}\delta_{-1} + \frac{1}{2}delta_{1}.
+\mu = \delta_0\quad \nu = \frac{1}{2}\delta_{-1} + \frac{1}{2}\delta_{1}.
 \end{equation}&lt;/p&gt;
 &lt;p&gt;The problem here is that mass preservation needs \(\frac{1}{2}\) mass at \(1\) and
 \(-1\), but \(T\) is a map that takes all of the mass at a point to another point.
@@ -167,7 +167,7 @@ depending on the weight assigned to each:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/scatter.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/scatter.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;cost-matrix&#34;&gt;Cost Matrix&lt;/h2&gt;
@@ -288,7 +288,7 @@ objective and constraints:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/coupling-heat.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/coupling-heat.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;We can also plot the point to point matching based on the values in &lt;code&gt;T&lt;/code&gt;:&lt;/p&gt;
@@ -319,7 +319,7 @@ objective and constraints:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/coupling-match.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/coupling-match.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;displacement-interpolation&#34;&gt;Displacement Interpolation&lt;/h2&gt;
@@ -415,7 +415,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Which produces the following animation:
-&lt;img src=&#34;https://example.com/ox-hugo/interpolant.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/interpolant.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
             
             
@@ -428,7 +428,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/categories/transport/" term="transport" label="transport" />
+                                <category scheme="https://sebastian-claici.github.io/categories/transport/" term="transport" label="transport" />
                             
                         
                     
@@ -438,7 +438,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/tags/discretetransport/" term="discretetransport" label="discretetransport" />
+                                <category scheme="https://sebastian-claici.github.io/tags/discretetransport/" term="discretetransport" label="discretetransport" />
                             
                         
                     

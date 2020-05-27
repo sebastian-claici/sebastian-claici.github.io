@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Concave Mirror</title>
-        <link>https://example.com/</link>
+        <link>https://sebastian-claici.github.io/</link>
         <description>Blog on math things. The not-math section is at https://sebastianclaici.com.</description>
         <generator>Hugo 0.71.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 27 May 2020 12:54:55 -0400</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2020 12:58:47 -0400</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://sebastian-claici.github.io/rss.xml" />
         
         
             <item>
                 <title>Introduction to Optimal Transport</title>
-                <link>https://example.com/blog/introduction-to-optimal-transport/</link>
-                <guid isPermaLink="true">https://example.com/blog/introduction-to-optimal-transport/</guid>
+                <link>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</link>
+                <guid isPermaLink="true">https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</guid>
                 <pubDate>Wed, 27 May 2020 00:00:00 -0400</pubDate>
                 
                     <author>sebastianclaici@gmail.com (Sebastian Claici)</author>
@@ -75,7 +75,7 @@ mass under \(\nu\) of \(B\):&lt;/p&gt;
 c(x_i, y_j)\). If we try to look for a map \(T\) here, we run into trouble quickly.
 Here is an example on \(\mathbb{R}\) where such a map does not exist:&lt;/p&gt;
 &lt;p&gt;\begin{equation}
-\mu = \delta_0\quad \nu = \frac{1}{2}\delta_{-1} + \frac{1}{2}delta_{1}.
+\mu = \delta_0\quad \nu = \frac{1}{2}\delta_{-1} + \frac{1}{2}\delta_{1}.
 \end{equation}&lt;/p&gt;
 &lt;p&gt;The problem here is that mass preservation needs \(\frac{1}{2}\) mass at \(1\) and
 \(-1\), but \(T\) is a map that takes all of the mass at a point to another point.
@@ -176,7 +176,7 @@ depending on the weight assigned to each:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/scatter.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/scatter.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;cost-matrix&#34;&gt;Cost Matrix&lt;/h2&gt;
@@ -297,7 +297,7 @@ objective and constraints:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/coupling-heat.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/coupling-heat.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;We can also plot the point to point matching based on the values in &lt;code&gt;T&lt;/code&gt;:&lt;/p&gt;
@@ -328,7 +328,7 @@ objective and constraints:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/ox-hugo/coupling-match.svg&#34;/&gt; 
+    &lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/coupling-match.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;displacement-interpolation&#34;&gt;Displacement Interpolation&lt;/h2&gt;
@@ -424,7 +424,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Which produces the following animation:
-&lt;img src=&#34;https://example.com/ox-hugo/interpolant.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://sebastian-claici.github.io/ox-hugo/interpolant.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
                 
                 
@@ -437,7 +437,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/transport/">transport</category>
+                                    <category domain="https://sebastian-claici.github.io/categories/transport/">transport</category>
                                 
                             
                         
@@ -447,7 +447,7 @@ combine into a .gif using &lt;code&gt;imagemagick&lt;/code&gt;.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/discretetransport/">discretetransport</category>
+                                    <category domain="https://sebastian-claici.github.io/tags/discretetransport/">discretetransport</category>
                                 
                             
                         
