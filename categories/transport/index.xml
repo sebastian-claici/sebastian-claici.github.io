@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transport on Concave Mirror</title>
+    <link>https://sebastian-claici.github.io/categories/transport/</link>
+    <description>Recent content in transport on Concave Mirror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://sebastian-claici.github.io/categories/transport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Optimal Transport</title>
+      <link>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</guid>
+      <description>There are excellent tutorials out there, an amazing Python package, and a lot of great books on the topic, and my intention here isn&amp;rsquo;t to replace them. The only difference is that I provide a bunch of coded examples alongside the math. You can get something similar, but significantly more developed at Gabriel Peyre&amp;rsquo;s excellent numerical tours website.
+Introduction Optimal transport defines a distance between probability distributions. We can tell how far apart two points \(x\) and \(y\) are in Euclidean space by measuring their Euclidean distance</description>
+    </item>
+    
+  </channel>
+</rss>

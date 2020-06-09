@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concave Mirror</title>
+    <link>https://sebastian-claici.github.io/</link>
+    <description>Recent content on Concave Mirror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://sebastian-claici.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trip to Albuquerque</title>
+      <link>https://sebastian-claici.github.io/blog/trip-to-albuquerque/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/blog/trip-to-albuquerque/</guid>
+      <description>The trip can be done in anywhere between 5 and 7 days. Here&amp;rsquo;s a six day version that front-loads most of the driving, and ends with two easy days.
+The route goes through Boston (MA), Syracuse (NY), Columbus (OH), St. Louis (MO), Oklahoma City (OK), Amarillo (TX), and Albuquerque (NM).
+The total driving time is 34h. The worst day of driving is day 4 with 7h:30m, and the best is Day 5 with 4h.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Optimal Transport</title>
+      <link>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/blog/introduction-to-optimal-transport/</guid>
+      <description>There are excellent tutorials out there, an amazing Python package, and a lot of great books on the topic, and my intention here isn&amp;rsquo;t to replace them. The only difference is that I provide a bunch of coded examples alongside the math. You can get something similar, but significantly more developed at Gabriel Peyre&amp;rsquo;s excellent numerical tours website.
+Introduction Optimal transport defines a distance between probability distributions. We can tell how far apart two points \(x\) and \(y\) are in Euclidean space by measuring their Euclidean distance</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sebastian-claici.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/about/</guid>
+      <description>I am a recent PhD graduate of the Geometric Data Processing Group at MIT. My research focus is on discrete optimal transport with applications to Bayesian inference, robust learning, clustering, and data summarisation. During my time in GDP I’ve been lucky to collaborate with many incredible people, among them Justin Solomon, Edward Chien, Matthew Staib, and Hugo Lavenant.
+Prior to joining Justin’s group, I was a Master’s student with Daniela Rus in the Distributed Robotics Lab where I worked on modular robotics and path planning.</description>
+    </item>
+    
+  </channel>
+</rss>

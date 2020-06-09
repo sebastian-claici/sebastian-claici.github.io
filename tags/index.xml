@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Concave Mirror</title>
+    <link>https://sebastian-claici.github.io/tags/</link>
+    <description>Recent content in Tags on Concave Mirror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://sebastian-claici.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>discretetransport</title>
+      <link>https://sebastian-claici.github.io/tags/discretetransport/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/tags/discretetransport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
