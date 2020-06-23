@@ -6,10 +6,36 @@
     <description>Recent content on Concave Mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sebastian-claici.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Memory the Tyrant</title>
+      <link>https://sebastian-claici.github.io/blog/memory-tyrant/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/blog/memory-tyrant/</guid>
+      <description>We rely on factual information to guide our lives, but we can only retrieve this information by probing into our memory. Memory is tinged with loss of detail. I am sitting now on my porch writing while a runner passes in front of my eyes. Already I have made an image of myriad events. My subconscious may have witnessed every vibration of motion in front of my eyes: every movement of ankle, knee, and hip that propels the body forward, every twitch of the hand and tilt of the head, and the idiosyncracies of these movements in the one runner in front of my eyes, yet, when I remember this particular moment in the future, what my mind&amp;rsquo;s eye will see is not this runner, or even any given runner that I have seen before, but my idealistic conception of what a runner is and how they behave.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://sebastian-claici.github.io/self/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sebastian-claici.github.io/self/</guid>
+      <description>Preprints  Claici, Sebastian, Aude Genevay, and Justin Solomon. 2020.
+“Wasserstein Measure Coresets.”
+CoRR abs/1805.07412.
+pdf Frogner, Charlie, Sebastian Claici, Edward Chien, and Justin Solomon. 2019.
+“Incorporating Unlabeled Data into Distributionally Robust Learning.”
+CoRR abs/1912.07729.
+pdf  Conference Proceedings  Claici, Sebastian, Mikhail Yurochkin, Soumya Ghosh, and Justin Solomon. 2020.
+“Model Fusion Using Kullback-Leibler Divergences.”
+In Proceedings of the 35th International Conference on Machine Learning, (ICML) 2020. Monteiller, Pierre, Sebastian Claici, Edward Chien, Farzaneh Mirzazadeh, Justin M.</description>
+    </item>
     
     <item>
       <title>Meeting on Death Mountain</title>
